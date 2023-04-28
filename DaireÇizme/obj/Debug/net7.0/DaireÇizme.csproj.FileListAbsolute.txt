@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.AssemblyInfo.cs
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\bin\Debug\net7.0\DaireÇizme.exe
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\bin\Debug\net7.0\DaireÇizme.deps.json
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\bin\Debug\net7.0\DaireÇizme.runtimeconfig.json
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\bin\Debug\net7.0\DaireÇizme.dll
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\bin\Debug\net7.0\DaireÇizme.pdb
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.dll
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\refint\DaireÇizme.dll
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.pdb
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\DaireÇizme.genruntimeconfig.cache
+C:\Users\serhat\source\repos\DaireÇizme\DaireÇizme\obj\Debug\net7.0\ref\DaireÇizme.dll
