@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\bin\Debug\net7.0\ÜçgenÇizme.exe
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\bin\Debug\net7.0\ÜçgenÇizme.deps.json
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\bin\Debug\net7.0\ÜçgenÇizme.runtimeconfig.json
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\bin\Debug\net7.0\ÜçgenÇizme.dll
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\bin\Debug\net7.0\ÜçgenÇizme.pdb
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.AssemblyInfo.cs
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.dll
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\refint\ÜçgenÇizme.dll
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.pdb
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ÜçgenÇizme.genruntimeconfig.cache
+C:\Users\serhat\source\repos\ÜçgenÇizme\ÜçgenÇizme\obj\Debug\net7.0\ref\ÜçgenÇizme.dll
