@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\bin\Debug\net7.0\FibonacciOrtalamasıHesaplama.exe
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\bin\Debug\net7.0\FibonacciOrtalamasıHesaplama.deps.json
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\bin\Debug\net7.0\FibonacciOrtalamasıHesaplama.runtimeconfig.json
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\bin\Debug\net7.0\FibonacciOrtalamasıHesaplama.dll
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\bin\Debug\net7.0\FibonacciOrtalamasıHesaplama.pdb
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.AssemblyInfo.cs
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.dll
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\refint\FibonacciOrtalamasıHesaplama.dll
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.pdb
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\FibonacciOrtalamasıHesaplama.genruntimeconfig.cache
+C:\Users\serhat\source\repos\FibonacciOrtalamasıHesaplama\FibonacciOrtalamasıHesaplama\obj\Debug\net7.0\ref\FibonacciOrtalamasıHesaplama.dll
