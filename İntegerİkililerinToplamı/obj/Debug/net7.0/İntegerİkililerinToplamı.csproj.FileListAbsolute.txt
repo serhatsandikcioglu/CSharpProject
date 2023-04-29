@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\bin\Debug\net7.0\İntegerİkililerinToplamı.exe
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\bin\Debug\net7.0\İntegerİkililerinToplamı.deps.json
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\bin\Debug\net7.0\İntegerİkililerinToplamı.runtimeconfig.json
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\bin\Debug\net7.0\İntegerİkililerinToplamı.dll
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\bin\Debug\net7.0\İntegerİkililerinToplamı.pdb
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.AssemblyInfo.cs
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.dll
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\refint\İntegerİkililerinToplamı.dll
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.pdb
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\İntegerİkililerinToplamı.genruntimeconfig.cache
+C:\Users\serhat\source\repos\İntegerİkililerinToplamı\İntegerİkililerinToplamı\obj\Debug\net7.0\ref\İntegerİkililerinToplamı.dll
