@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\bin\Debug\net7.0\MutlakKareAlma.exe
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\bin\Debug\net7.0\MutlakKareAlma.deps.json
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\bin\Debug\net7.0\MutlakKareAlma.runtimeconfig.json
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\bin\Debug\net7.0\MutlakKareAlma.dll
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\bin\Debug\net7.0\MutlakKareAlma.pdb
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.AssemblyInfo.cs
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.dll
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\refint\MutlakKareAlma.dll
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.pdb
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\MutlakKareAlma.genruntimeconfig.cache
+C:\Users\serhat\source\repos\MutlakKareAlma\MutlakKareAlma\obj\Debug\net7.0\ref\MutlakKareAlma.dll
