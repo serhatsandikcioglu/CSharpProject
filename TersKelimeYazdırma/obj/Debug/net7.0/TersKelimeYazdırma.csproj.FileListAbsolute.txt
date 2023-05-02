@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\bin\Debug\net7.0\TersKelimeYazdırma.exe
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\bin\Debug\net7.0\TersKelimeYazdırma.deps.json
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\bin\Debug\net7.0\TersKelimeYazdırma.runtimeconfig.json
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\bin\Debug\net7.0\TersKelimeYazdırma.dll
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\bin\Debug\net7.0\TersKelimeYazdırma.pdb
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.AssemblyInfo.cs
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.dll
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\refint\TersKelimeYazdırma.dll
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.pdb
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\TersKelimeYazdırma.genruntimeconfig.cache
+C:\Users\serhat\source\repos\TersKelimeYazdırma\TersKelimeYazdırma\obj\Debug\net7.0\ref\TersKelimeYazdırma.dll
