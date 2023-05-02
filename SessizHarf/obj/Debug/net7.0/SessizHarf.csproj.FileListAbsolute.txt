@@ -1,0 +1,15 @@
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\bin\Debug\net7.0\SessizHarf.exe
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\bin\Debug\net7.0\SessizHarf.deps.json
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\bin\Debug\net7.0\SessizHarf.runtimeconfig.json
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\bin\Debug\net7.0\SessizHarf.dll
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\bin\Debug\net7.0\SessizHarf.pdb
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.AssemblyInfo.cs
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.dll
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\refint\SessizHarf.dll
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.pdb
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\SessizHarf.genruntimeconfig.cache
+C:\Users\serhat\source\repos\SessizHarf\SessizHarf\obj\Debug\net7.0\ref\SessizHarf.dll
