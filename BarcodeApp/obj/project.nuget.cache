@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/FoBHjbhFcyO5wkAOZwF+arfKWwB/nrjufGyEkbkiG+0iVqEAuXAt1Tkhq8VcGwTEfaWUUhx5X9FBZXVjMH+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serhat\\source\\repos\\BarcodeApp\\BarcodeApp\\BarcodeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serhat\\.nuget\\packages\\barcode\\2023.5.1\\barcode.2023.5.1.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\ironsoftware.system.drawing\\2023.4.4\\ironsoftware.system.drawing.2023.4.4.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\serhat\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
