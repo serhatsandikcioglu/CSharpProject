@@ -1,0 +1,6 @@
+1-CREATE TABLE employee (id INTEGER PRIMARY KEY,name VARCHAR(50), birthday DATE,email VARCHAR(100));  
+2-INSERT INTO employee (name, birthday, email) VALUES ('John Doe', '1990-01-01', 'john.doe@example.com'), ('Jane Smith', '1985-05-15', 'jane.smith@example.com');  
+3-UPDATE employee SET name = 'Serhat' WHERE id = 1;  
+UPDATE employee SET birthday = '1995-02-28' WHERE id = 2;  
+4-DELETE FROM employee WHERE id = 1;  
+DELETE FROM employee WHERE name = 'John Doe';  
